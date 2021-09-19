@@ -1,0 +1,42 @@
+@media (max-width: 620px) {
+    .chevron {
+        display: block;
+    }
+    .navigation {
+        display: none;
+    }
+    .text {
+        margin-left: 0;
+    }
+    .text2 {
+        margin-left: 0;
+    }
+    .contact {
+        flex-direction: column;
+    }
+    .circle-div {
+        margin-bottom: 10px;
+    }
+    .form {
+        flex-wrap: wrap;
+    }
+    .formb {
+        margin-top: 10px;
+    }
+    .footer-main {
+        
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 1060px) {
+    .photos {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .picture {
+        margin-bottom: 10px;
+        
+    }
+
+}
